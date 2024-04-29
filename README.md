@@ -23,6 +23,7 @@ C51 单片机学习笔记：
 - [C51 单片机] [十五.振动传感器控制继电器](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485386&idx=1&sn=758ee90eb31467e60b2a835e08c8b650)
 - [C51 单片机] [十六.震动让喇叭响起来](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485390&idx=1&sn=379b96bd783af3d91ec3be3c78a0ef6d)
 - [C51 单片机] [十七.433M 控制继电器](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485409&idx=1&sn=e3ce97e688b04c59e990ad21b3be1b2e)
+- [C51 单片机] [十八.震动提示的功能](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485443&idx=1&sn=0e7382b0be2dc1339d4c7bb9cbb9c8c4)
 
 
 <hr>

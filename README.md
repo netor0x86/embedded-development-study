@@ -25,6 +25,7 @@ C51 单片机学习笔记：
 - [C51 单片机] [十七.433M 控制继电器](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485409&idx=1&sn=e3ce97e688b04c59e990ad21b3be1b2e)
 - [C51 单片机] [十八.震动提示的功能](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485443&idx=1&sn=0e7382b0be2dc1339d4c7bb9cbb9c8c4)
 - [C51 单片机] [十九.定时器/计数器的初识](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485459&idx=1&sn=f8e3212b7cbfcc7db456dba77962b188)
+- [C51 单片机] [二十.晶振与相关概念](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485462&idx=1&sn=1db2878ba0e7fb58ccd5164c2c0ec219)
 
 
 <hr>

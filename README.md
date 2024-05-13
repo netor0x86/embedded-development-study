@@ -27,6 +27,8 @@ C51 单片机学习笔记：
 - [C51 单片机] [十九.定时器/计数器的初识](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485459&idx=1&sn=f8e3212b7cbfcc7db456dba77962b188)
 - [C51 单片机] [二十.晶振与相关概念](https://mp.weixin.qq.com/s?__biz=MzI0MzA2OTc4MQ==&mid=2247485462&idx=1&sn=1db2878ba0e7fb58ccd5164c2c0ec219)
 - [C51 单片机] [二十一.定时器数一次要多久](https://mp.weixin.qq.com/s/G2fYsumJ6tuStD22nXJ6wg)
+- [C51 单片机] [二十二.寄存器](https://mp.weixin.qq.com/s/7vBsUY_ulaV_vcmMRpZiRw)
+
 
 
 <hr>

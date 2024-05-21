@@ -29,6 +29,7 @@ C51 单片机学习笔记：
 - [C51 单片机] [二十一.定时器数一次要多久](https://mp.weixin.qq.com/s/G2fYsumJ6tuStD22nXJ6wg)
 - [C51 单片机] [二十二.寄存器](https://mp.weixin.qq.com/s/7vBsUY_ulaV_vcmMRpZiRw)
 - [C51 单片机] [二十三.定时器计时10ms的计算](https://mp.weixin.qq.com/s/lJkd0XHdV7zwfz2Zjg8aEw)
+- [C51 单片机] [二十四.定时器配置详解](https://mp.weixin.qq.com/s/VkdAgue45gzVnEhmGrlpPA)
 
 
 

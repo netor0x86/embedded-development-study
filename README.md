@@ -30,6 +30,8 @@ C51 单片机学习笔记：
 - [C51 单片机] [二十二.寄存器](https://mp.weixin.qq.com/s/7vBsUY_ulaV_vcmMRpZiRw)
 - [C51 单片机] [二十三.定时器计时10ms的计算](https://mp.weixin.qq.com/s/lJkd0XHdV7zwfz2Zjg8aEw)
 - [C51 单片机] [二十四.定时器配置详解](https://mp.weixin.qq.com/s/VkdAgue45gzVnEhmGrlpPA)
+- [C51 单片机] [二十五.LED 灯 1 秒切换一次状态](https://mp.weixin.qq.com/s/XLCyVFHzApoHfg7Mcvp8TQ)
+- [C51 单片机] [二十六.C 语言位运算技巧](https://mp.weixin.qq.com/s/WamiNA85_4SuUndJ3U_7vQ)
 
 
 

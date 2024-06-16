@@ -35,7 +35,8 @@ C51 单片机学习笔记：
 - [C51 单片机] [二十七.AUXR 寄存器说明](https://mp.weixin.qq.com/s/YGyofzjFDaPMc-ZRuiuudw)
 - [C51 单片机] [二十八.说说中断是什么](https://mp.weixin.qq.com/s/T2WCNIHHmQUNMM8jmURILQ)
 - [C51 单片机] [二十九.定时器中断寄存器](https://mp.weixin.qq.com/s/DjTNNb0wsQYKhq583foOeQ)
-
+- [C51 单片机] [三十.中断方式控制 LED](https://mp.weixin.qq.com/s/tcvNJmFLPWlMdEHheQrfrA)
+- [C51 单片机] [三十一.认识 PWM](https://mp.weixin.qq.com/s/t5PxEsCHoiqq5TZbVhrO9Q)
 
 
 <hr>

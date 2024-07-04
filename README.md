@@ -37,6 +37,14 @@ C51 单片机学习笔记：
 - [C51 单片机] [二十九.定时器中断寄存器](https://mp.weixin.qq.com/s/DjTNNb0wsQYKhq583foOeQ)
 - [C51 单片机] [三十.中断方式控制 LED](https://mp.weixin.qq.com/s/tcvNJmFLPWlMdEHheQrfrA)
 - [C51 单片机] [三十一.认识 PWM](https://mp.weixin.qq.com/s/t5PxEsCHoiqq5TZbVhrO9Q)
+- [C51 单片机] [三十二.认识舵机](https://mp.weixin.qq.com/s/f9gOmcgZY4fguIZqVZy6fg)
+- [C51 单片机] [三十三.模拟 PWM 控制舵机](https://mp.weixin.qq.com/s/Zp4dMVFAeaf_JWV3cQvm0Q)
+- [C51 单片机] [三十四.认识超声波测距传感器](https://mp.weixin.qq.com/s/yMMXm3XEMf0NjxOVDGhf_Q)
+- [C51 单片机] [三十五.超声波测距传感器控制 LED 灯](https://mp.weixin.qq.com/s/50j2psaGJJfwFwoVtRLBig)
+- [C51 单片机] [三十六.认识串口](https://mp.weixin.qq.com/s/khHjVRe_3qI44S7Xj1Lz1Q)
+- [C51 单片机] [三十七.认识串口通信](https://mp.weixin.qq.com/s/U48g9SDl2XJ7YFsMMiIpDw)
+- [C51 单片机] [三十八.单片机发数据给 PC](https://mp.weixin.qq.com/s/CjkzTgMS9PBqRa4rI3lcHQ)
+- [C51 单片机] [三十九.串口初始化分析](https://mp.weixin.qq.com/s/0IBfgdU74EltpLHf8Knviw)
 
 
 <hr>

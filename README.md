@@ -46,12 +46,18 @@ C51 单片机学习笔记：
 - [C51 单片机] [三十八.单片机发数据给 PC](https://mp.weixin.qq.com/s/CjkzTgMS9PBqRa4rI3lcHQ)
 - [C51 单片机] [三十九.串口初始化分析](https://mp.weixin.qq.com/s/0IBfgdU74EltpLHf8Knviw)
 - [C51 单片机] [四十.串口初始化实现](https://mp.weixin.qq.com/s/L_32Y-kE6uq1-BhsTMq9zA)
-- [C51 单片机] []()
-- [C51 单片机] []()
-- [C51 单片机] []()
-- [C51 单片机] []()
-- [C51 单片机] []()
-
+- [C51 单片机] [四十一.发送字符串给 PC](https://mp.weixin.qq.com/s/ZYRUfSZPLWc18_IQt9Sv3A)
+- [C51 单片机] [四十二.串口通过 PC 点亮 LED](https://mp.weixin.qq.com/s/FRjFlvfdsArMs4FynkGriQ)
+- [C51 单片机] [四十三.用 UART 中断控制 LED](https://mp.weixin.qq.com/s/3KcY-TOlSaq7bd66JCVMOw)
+- [C51 单片机] [四十四.串口 HEX 模式发送数据](https://mp.weixin.qq.com/s/Gd3-g515AwgICLRacs0JMQ)
+- [C51 单片机] [四十五.发送命令控制 LED](https://mp.weixin.qq.com/s/xyckgowAqQi1BT0WlJlMlg)
+- [C51 单片机] [四十六.蓝牙模块介绍](https://mp.weixin.qq.com/s/hvqPzbqxQUZ8sVv9sLo8Bw)
+- [C51 单片机] [四十七.蓝牙模块发送数据](https://mp.weixin.qq.com/s/-AwD9jgt_rN--OUPhY3NOg)
+- [C51 单片机] [四十八.蓝牙模块的设置](https://mp.weixin.qq.com/s/z5eDB6u9KxL7-RlXmr-2Hw)
+- [C51 单片机] [四十九.WIFI 模块的介绍](https://mp.weixin.qq.com/s/Ta-mp0252kZ1yWi9uN1hCw)
+- [C51 单片机] [五十.WIFI 模块的简单配置](https://mp.weixin.qq.com/s/cn2YtuksLm4xbjXhpdnx6Q)
+- [C51 单片机] [五十一.WIFI 模块的简单通信](https://mp.weixin.qq.com/s/OX9Xdp5RSH9XZEc0OAHbWw)
+- [C51 单片机] [五十二.串口控制 WIFI 模块](https://mp.weixin.qq.com/s/lzk2Dd6NTq1CETh-nMVTrQ)
 
 
 <hr>

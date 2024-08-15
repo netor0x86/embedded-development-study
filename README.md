@@ -45,6 +45,13 @@ C51 单片机学习笔记：
 - [C51 单片机] [三十七.认识串口通信](https://mp.weixin.qq.com/s/U48g9SDl2XJ7YFsMMiIpDw)
 - [C51 单片机] [三十八.单片机发数据给 PC](https://mp.weixin.qq.com/s/CjkzTgMS9PBqRa4rI3lcHQ)
 - [C51 单片机] [三十九.串口初始化分析](https://mp.weixin.qq.com/s/0IBfgdU74EltpLHf8Knviw)
+- [C51 单片机] [四十.串口初始化实现](https://mp.weixin.qq.com/s/L_32Y-kE6uq1-BhsTMq9zA)
+- [C51 单片机] []()
+- [C51 单片机] []()
+- [C51 单片机] []()
+- [C51 单片机] []()
+- [C51 单片机] []()
+
 
 
 <hr>
